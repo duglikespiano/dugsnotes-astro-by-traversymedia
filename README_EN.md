@@ -16,7 +16,7 @@
 
 - Project title : dugsnotes_php
 - Related URL : https://youtu.be/Oi9z5gfIHJs?si=mQPeLiQQzKV1xN03
-- Period : Jan 12 2024 - In progress
+- Period : Jan 12 2025 - Jan 13 2025
 - Member(s) : Dug Park
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">

@@ -16,7 +16,7 @@
 
 - Project タイトル : dugsnotes_astro_by_traversymedia
 - 関連 URL : https://youtu.be/Oi9z5gfIHJs?si=mQPeLiQQzKV1xN03
-- 期間 : 2025.01.12 - 進行中
+- 期間 : 2025.01.12 - 2025.01.13
 - 人員 : 1 人
 - 技術スタック : </br>
   <img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
