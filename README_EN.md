@@ -8,13 +8,12 @@
 
 1. Overview
 2. Project goal
-3. Contents
    </br>
    </br>
 
 ### 1. Overview
 
-- Project title : dugsnotes_php
+- Project title : dugsnotes_astro_by_traversymedia
 - Related URL : https://youtu.be/Oi9z5gfIHJs?si=mQPeLiQQzKV1xN03
 - Period : Jan 12 2025 - Jan 13 2025
 - Member(s) : Dug Park
@@ -32,5 +31,3 @@
 - Building pages with Astro
   </br>
   </br>
-
-### 3. Contents
